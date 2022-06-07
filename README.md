@@ -16,11 +16,21 @@ Rmetrics is a free, open-source, and open development software project for teach
 The project was created in 2001 by Dr. Diethelm Wuertz and his associates in Zurich, Switzerland, and has many useful packages such as fBasics, fGarch,
 and fPortfolio. Website: https://www.rmetrics.org.
 
-# Create a simplecalculator with R
+# Create a simple calculator with R
 
 Defining functions help in organizing the code and allow to re-use code fragments whenever you need. I define functions to apply arithmetic operations 
 such as addition, subtraction, multiplication, and divistion.
 
 Decision making is an important part of programming. This can be achieved in R programming using the conditional if...else statement.
+I used the If...else statements to call the related functions based on the user input.
 
 I used readline() function in R to read text lines from an input file, however, I used as.integer() function to transform a character object into an integer object.
+
+In R Console:
+Firstly, you may enter your arithmetic operation type number 
+1 - Addition
+2 - Subtraction
+3 - Multiplication
+4 - Division
+Second, enter the first number,
+Third, enter the second number.
