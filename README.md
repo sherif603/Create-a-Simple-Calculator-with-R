@@ -16,6 +16,12 @@ Rmetrics is a free, open-source, and open development software project for teach
 The project was created in 2001 by Dr. Diethelm Wuertz and his associates in Zurich, Switzerland, and has many useful packages such as fBasics, fGarch,
 and fPortfolio. Website: https://www.rmetrics.org.
 
+# RStudio, IDE
+RStudio is an integrated development environment (IDE) for R, a programming language for statistical computing and graphics.
+It adds modern features like syntax highlighting and code refactoring to R. In other words, it brings all the features that you need together in one place.
+It is available in two formats: RStudio Desktop is a regular desktop application while RStudio Server runs on a remote server and allows accessing RStudio
+using web browser. You can download and Install RStudio IDE via (www.rstudio.com/products/rstudio/download/).
+
 # Create a simple calculator with R
 
 Defining functions help in organizing the code and allow to re-use code fragments whenever you need. I define functions to apply arithmetic operations 
